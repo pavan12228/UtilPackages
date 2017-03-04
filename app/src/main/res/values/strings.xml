@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UtilPackages</string>
+    <string name="errormessage">network error</string>
+    <string name="app_name1">ListViewWithButton</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="get_answer">Click to get Selected Answer</string>
+</resources>
